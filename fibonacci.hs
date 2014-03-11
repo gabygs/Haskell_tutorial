@@ -1,4 +1,6 @@
-
+{-
+	These are the examples to be used in class
+-}
 fibonacci :: (Integral a) => a -> a
 fibonacci 0 = 0
 fibonacci 1 = 1
