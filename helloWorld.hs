@@ -1,4 +1,4 @@
-
+--intro
 --main = putStrLn "Hello world, I am learning Haskell!"
 
 main = do
